@@ -4,7 +4,6 @@
 <p align="center">
   <i>I'm a junior developer who enjoys creating open-source experiences. I specialize in Frontend, DevOps, Network Engineering, and IT System Administration. I love learning new technologies and continuously improving my skills to build better solutions and user experiences.</i>
 </p>
-</br>
 
 ---
 
@@ -45,7 +44,6 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
 </div>
-</br>
 
 ---
 
