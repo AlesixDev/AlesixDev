@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <i>I'm a junior developer who enjoys creating open-source experiences. I specialize in DevOps, Network Engineering, and IT System Administration. I love learning new technologies and continuously improving my skills to build better solutions and user experiences.</i>
+  <i>I'm a junior developer who enjoys creating open-source experiences. I specialize in Frontend, DevOps, Network Engineering, and IT System Administration. I love learning new technologies and continuously improving my skills to build better solutions and user experiences.</i>
 </p>
 
 ---
