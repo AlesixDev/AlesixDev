@@ -43,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="html5 logo" />
 </div>
 
 ---
