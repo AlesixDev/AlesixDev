@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex Za 👋</h1>
-
+<h3 align="center">Frontend Developer • DevOps • Network Engineering • SysAdmin</h3>
 
 <p align="center">
   <i>I'm a junior developer who enjoys creating open-source experiences. I specialize in Frontend, DevOps, Network Engineering, and IT System Administration. I love learning new technologies and continuously improving my skills to build better solutions and user experiences.</i>
@@ -55,9 +55,8 @@
 
 <p align="center">
   <a href="https://github.com/AlesixDev" target="_blank">GitHub</a> |
-  <a href="https://twitter.com/AlesixDv" target="_blank">Twitter</a> |
-  <a href="https://discord.com/users/SystemRescue" target="_blank">Discord</a> |
-  <a href="https://alesix.xyz" target="_blank">Portfolio</a>
+  <a href="https://discord.com/users/route.ts" target="_blank">Discord</a> |
+  <a href="https://alesix.site" target="_blank">Portfolio</a>
 </p>
 
 <div align="center">
